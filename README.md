@@ -31,7 +31,7 @@ Podés clonar el repositorio con:
 
 ```bash
 git clone https://github.com/psaitta/scripts-linux.git
-´´´
+```
 
 Y ejecutar los scripts directamente desde la terminal.
 La mayoría están pensados para distribuciones Ubuntu / Debian / Centos / Alma Linux / Linux Mint, pero se irán sumando variantes para otros sistemas.
