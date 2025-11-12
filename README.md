@@ -29,10 +29,12 @@ Algunos ejemplos de lo que contiene (o contendrá):
 
 Podés clonar el repositorio con:
 
-git commit -m "Actualizo monitoreo.sh con nueva función de chequeo de red"
+```bash
+git clone https://github.com/psaitta/scripts-linux.git
+´´´
 
 Y ejecutar los scripts directamente desde la terminal.
-La mayoría están pensados para distribuciones Ubuntu / Debian, pero se irán sumando variantes para otros sistemas.
+La mayoría están pensados para distribuciones Ubuntu / Debian / Centos / Alma Linux / Linux Mint, pero se irán sumando variantes para otros sistemas.
 
 🧑‍💻 Autor
 
