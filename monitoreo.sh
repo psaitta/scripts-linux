@@ -1,4 +1,9 @@
 #!/bin/bash
+# -----------------------------------------------------------------------------
+# Copyright (c) 2025, Pablo German Saitta
+# Licenciado bajo la Licencia MIT.
+# Consulte el archivo LICENSE para obtener detalles.
+# -----------------------------------------------------------------------------
 
 #Funcion para mostrar el menu principal
 mostrar_menu() {

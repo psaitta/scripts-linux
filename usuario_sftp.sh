@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# -----------------------------------------------------------------------------
+# Copyright (c) 2025, Pablo German Saitta
+# Licenciado bajo la Licencia MIT.
+# Consulte el archivo LICENSE para obtener detalles.
+# -----------------------------------------------------------------------------
+
 # --- Variables Globales ---
 SFTP_BASE_DIR="/var/www/sftp"
 SSHD_CONFIG="/etc/ssh/sshd_config"
