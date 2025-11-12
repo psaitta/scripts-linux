@@ -31,3 +31,19 @@ Podés clonar el repositorio con:
 ```bash
 git clone https://github.com/psaitta/scripts-linux.git
 
+Y ejecutar los scripts directamente desde la terminal.
+La mayoría están pensados para distribuciones Ubuntu / Debian, pero se irán sumando variantes para otros sistemas.
+
+🧑‍💻 Autor
+
+Pablo Saitta
+🔗 github.com/psaitta
+
+SysAdmin y entusiasta de la automatización en entornos Linux.
+Este repositorio es parte de mi espacio de experimentación y documentación técnica.
+
+📜 Licencia
+
+Este repositorio se comparte bajo la licencia MIT, por lo que podés usar, modificar y distribuir el código con total libertad, mencionando la fuente.
+
+“Automatizar no es solo ahorrar tiempo: es aprender una vez para no repetir errores.”
