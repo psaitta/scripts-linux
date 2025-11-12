@@ -28,8 +28,8 @@ Algunos ejemplos de lo que contiene (o contendrá):
 ## 🚀 Cómo usarlo
 
 Podés clonar el repositorio con:
-```bash
-git clone https://github.com/psaitta/scripts-linux.git
+
+git commit -m "Actualizo monitoreo.sh con nueva función de chequeo de red"
 
 Y ejecutar los scripts directamente desde la terminal.
 La mayoría están pensados para distribuciones Ubuntu / Debian, pero se irán sumando variantes para otros sistemas.
